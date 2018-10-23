@@ -11,7 +11,7 @@ In order to create a SSH key for windows you can follow these steps.
 Generate your keys with Putty
 =============================
 
-#. download putty http://the.earth.li/~sgtatham/putty/latest/x86/putty-0.66-installer.exe
+#. download putty https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
 
 #. start "PUTTYgen" from the start menu
 
